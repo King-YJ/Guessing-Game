@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\GuessingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|solutionrelative:GuessingGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|solutionrelative:Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\GuessingGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|solutionrelative:GuessingGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C16644F-8920-40BF-9E6F-681EA1CE55FD}|Guessing Game.vcxproj|solutionrelative:Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Number.h",
+              "DocumentMoniker": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Number.h",
+              "RelativeDocumentMoniker": "Number.h",
+              "ToolTip": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Number.h",
+              "RelativeToolTip": "Number.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T05:12:23.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Number.cpp",
+              "DocumentMoniker": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Number.cpp",
+              "RelativeDocumentMoniker": "Number.cpp",
+              "ToolTip": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Number.cpp",
+              "RelativeToolTip": "Number.cpp",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T06:09:44.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T19:28:28.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T01:11:59.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T01:18:02.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuessingGame.cpp",
+              "DocumentMoniker": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\GuessingGame.cpp",
+              "RelativeDocumentMoniker": "GuessingGame.cpp",
+              "ToolTip": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\GuessingGame.cpp",
+              "RelativeToolTip": "GuessingGame.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T01:46:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuessingGame.h",
+              "DocumentMoniker": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\GuessingGame.h",
+              "RelativeDocumentMoniker": "GuessingGame.h",
+              "ToolTip": "C:\\Users\\ubong\\Documents\\Guessing Game\\Guessing Game\\GuessingGame.h",
+              "RelativeToolTip": "GuessingGame.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T01:42:28.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
