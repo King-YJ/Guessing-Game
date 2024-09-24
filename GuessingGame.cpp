@@ -55,7 +55,7 @@ void GuessingGame::run()
         }
         else if (modes == 2)
         {
-            cout << "Not yet available" << endl;
+            cout << "In development" << endl;
         }
         else if (modes == 3)
         {
